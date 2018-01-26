@@ -10,13 +10,13 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>23ba34de-3889-484f-80c0-eadde5937f68</PackageIdentityName>
     <PackageIdentityPublisher>CN=6B0E04BB-E44B-43CE-89DF-DBA5BC33E3A2</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\demo\HelloWord2\HelloWord2\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Project\UWP_HelloWord\HelloWord2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>3444C2FED5A07F3E5CC5030F9B0EC8AEAE6088652C400C4B025FF04B1A744E2B</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>48C37631EA9B5EF02EBD3EE7951FD3ADC535AE544A701FD1A2C5910FF5B9CD01</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>63967vsclient.AUWPbihuan_1.1.0.0_x86__pekm0tavj4jwp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>63967vsclient.AUWPbihuan_pekm0tavj4jwp!App</RegisteredUserModeAppID>
     <RegisteredPackageID>63967vsclient.AUWPbihuan</RegisteredPackageID>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\demo\HelloWord2\HelloWord2\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Project\UWP_HelloWord\HelloWord2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-02T08:26:31.743</Modified>
+      <Modified>2018-01-26T09:32:15.341</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\bin\x86\Debug\HelloWord2.exe">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\bin\x86\Debug\HelloWord2.exe">
       <PackagePath>entrypoint\HelloWord2.exe</PackagePath>
-      <Modified>2018-01-02T08:26:27.300</Modified>
+      <Modified>2018-01-26T09:32:14.327</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\microsoft.appcenter.crashes\1.0.0\build\uap10.0\..\..\runtimes\win10-x86\native\WatsonRegistrationUtility.dll">
       <PackagePath>WatsonRegistrationUtility.dll</PackagePath>
@@ -552,45 +552,45 @@
       <PackagePath>WatsonRegistrationUtility.winmd</PackagePath>
       <Modified>2017-11-14T21:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-01-02T06:16:22.194</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-12-26T10:09:36.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-26T10:09:36.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-26T10:09:36.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-26T10:09:36.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-26T10:09:36.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-26T10:09:36.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-26T10:09:36.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\bin\x86\Debug\HelloWord2.xr.xml">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\bin\x86\Debug\HelloWord2.xr.xml">
       <PackagePath>HelloWord2.xr.xml</PackagePath>
       <Modified>2018-01-02T07:08:07.108</Modified>
     </AppxPackagedFile>
@@ -598,14 +598,14 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-01-02T03:40:14.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-02T08:26:29.517</Modified>
+      <Modified>2018-01-19T02:39:54.446</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\demo\HelloWord2\HelloWord2\bin\x86\Debug\Core\HelloWord2.exe">
+    <AppxPackagedFile Include="D:\Project\UWP_HelloWord\HelloWord2\bin\x86\Debug\Core\HelloWord2.exe">
       <PackagePath>HelloWord2.exe</PackagePath>
-      <Modified>2018-01-02T08:26:31.705</Modified>
+      <Modified>2018-01-26T09:32:15.329</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -69,9 +69,12 @@ namespace HelloWord2
                 System.Diagnostics.Debug.WriteLine(summary);
             };
             AppCenter.SetCountryCode("cn");
-            AppCenter.Start("943cebc8-d16b-4bf8-996a-8be927b2ced8", typeof(Analytics), typeof(Crashes), typeof(Push)); //+
+            AppCenter.Start("5205013a-7409-41c5-9361-a60260ceec00", typeof(Analytics), typeof(Crashes), typeof(Push)); //+
             Push.CheckLaunchedFromNotification(e);
+                      
             var installId = AppCenter.GetInstallIdAsync();
+
+            System.Diagnostics.Debug.WriteLine("InstallId=" + installId.Result); //+
 
             // Do not repeat app initialization when the Window already has content,
             // just ensure that the window is active

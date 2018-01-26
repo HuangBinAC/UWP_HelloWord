@@ -1,1 +1,1 @@
-D:\demo\HelloWord2\HelloWord2\HelloWord2.csproj;x86
+D:\Project\UWP_HelloWord\HelloWord2\HelloWord2.csproj;x86

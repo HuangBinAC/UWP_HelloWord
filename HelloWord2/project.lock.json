@@ -27674,10 +27674,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\demo\\HelloWord2\\HelloWord2\\HelloWord2.csproj",
+      "projectUniqueName": "D:\\Project\\UWP_HelloWord\\HelloWord2\\HelloWord2.csproj",
       "projectName": "HelloWord2",
-      "projectPath": "D:\\demo\\HelloWord2\\HelloWord2\\HelloWord2.csproj",
-      "projectJsonPath": "D:\\demo\\HelloWord2\\HelloWord2\\project.json",
+      "projectPath": "D:\\Project\\UWP_HelloWord\\HelloWord2\\HelloWord2.csproj",
+      "projectJsonPath": "D:\\Project\\UWP_HelloWord\\HelloWord2\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
