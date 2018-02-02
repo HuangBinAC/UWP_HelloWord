@@ -457,3 +457,4 @@ D:\Project\UWP_HelloWord\HelloWord2\obj\x86\Debug\qualifiers.txt
 D:\Project\UWP_HelloWord\HelloWord2\obj\x86\Debug\qualifiers.txt.intermediate
 D:\Project\UWP_HelloWord\HelloWord2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Project\UWP_HelloWord\HelloWord2\obj\x86\Debug\ProjectArchitectures.txt
+D:\Project\UWP_HelloWord\HelloWord2\bin\x86\Debug\Microsoft.AppCenter.Distribute.dll
