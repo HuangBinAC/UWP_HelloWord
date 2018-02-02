@@ -15,6 +15,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using Microsoft.AppCenter;
+using Microsoft.AppCenter.Distribute;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
 using Microsoft.AppCenter.Push;
@@ -68,8 +69,9 @@ namespace HelloWord2
                 // Send the notification summary to debug output
                 System.Diagnostics.Debug.WriteLine(summary);
             };
-            AppCenter.SetCountryCode("cn");
-            AppCenter.Start("cdf625a9-6769-438f-b291-a9834b04777e", typeof(Analytics), typeof(Crashes), typeof(Push)); //+
+            AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
+            AppCenter.SetCountryCode("Japan");
+            AppCenter.Start("cdf625a9-6769-438f-b291-a9834b04777e", typeof(Distribute), typeof(Analytics), typeof(Crashes), typeof(Push)); 
             Push.CheckLaunchedFromNotification(e);
                       
             var installId = AppCenter.GetInstallIdAsync();
