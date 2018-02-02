@@ -70,7 +70,7 @@ namespace HelloWord2
                 System.Diagnostics.Debug.WriteLine(summary);
             };
             AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
-            AppCenter.SetCountryCode("usa");
+            AppCenter.SetCountryCode("cn");
             AppCenter.Start("998a35d1-d603-433d-aa99-41f82674c64f", typeof(Distribute), typeof(Analytics), typeof(Crashes), typeof(Push)); 
             Push.CheckLaunchedFromNotification(e);
                       
